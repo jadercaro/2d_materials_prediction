@@ -26,3 +26,6 @@ This repository houses a deep learning framework for analyzing and predicting pr
 
 This project aims to accelerate research and development in the exciting field of 2D materials, potentially leading to breakthroughs in electronics, energy storage, and beyond.
 
+## Videos
+- [Final Video](https://www.youtube.com/watch?v=en6OTQusNDI)
+
