@@ -29,3 +29,9 @@ This project aims to accelerate research and development in the exciting field o
 ## Videos
 - [Final Video](https://www.youtube.com/watch?v=en6OTQusNDI)
 
+## Data
+
+- The data is consumed from the Roboflow API (see Notebooks 1 and 4, for example). It can also be accessed publicly at the following [link](https://universe.roboflow.com/2d-materials-segmentation/2d-materials-segmentation).
+
+## Models
+The Notebook 4-UNet_128+Image_Augmentation contains the process for loading the trained model. However, the model in .keras format can be downloaded [here](https://drive.google.com/uc?id=1HCkZ6PzWRC_ZsiJaeiKUxBZ8rIsZDg6q)
